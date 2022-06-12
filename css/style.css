@@ -1,0 +1,68 @@
+/* common start */
+body{
+    font-family:'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+/* common end */
+/* header start */
+header{
+    background-color: #F0FFF0;
+    padding: 5px 0;
+}
+.logo{}
+.menu ul li a{
+    color: black !important;
+    line-height: 24px;
+    text-transform: capitalize; 
+    padding: 0 24px !important;
+
+}
+.menu ul li a:hover{
+    color: #FD511A !important;
+}
+.btn_sig{
+    font-family: 'Roboto', sans-serif;
+    line-height: 19px;
+    color: #FFFFFF;
+    padding: 12px 28px;
+    background: #21B573;
+    border: 0;
+    border-radius: 33px;
+}
+.btn_sig:hover{
+    background-color: #FD511A;
+    color: white;
+}
+/* header end */
+/* banner start */
+.banner{
+    background-color: #F0FFF0;
+    padding: 35px 0 65px;
+}
+.b_text{}
+.red{
+    color: #FD511A;
+    line-height: 24px;
+}
+.b_h1{
+    margin: 10px 0 20px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 70px;
+    color:#000000 !important;
+    padding-right: 111px;
+}
+.b_h1 span{
+    color: #21B573;
+}
+.black{
+    line-height: 36px;
+}
+.btn_cus {
+    padding: 12px 36px;
+    margin-top: 15px;
+}
+.b_img{}
+.b_img img{}
+/* banner end */

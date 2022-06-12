@@ -1,0 +1,10 @@
+fornt family:
+popins-400,700,500 
+font-family: 'Roboto', sans-serif; 400,
+
+colour:
+bg colour- #F0FFF0;
+green- #21B573;
+black-#000000;
+white- 
+hover- #FD511A
